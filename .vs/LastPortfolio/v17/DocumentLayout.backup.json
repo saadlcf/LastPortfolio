@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\migrations\\20250124042337_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\migrations\\20250124042337_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\skills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\skills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\skills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\skills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\skills\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\skills\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\skills\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\skills\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\skills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\skills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\messages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\messages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\messages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\messages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\messages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\messages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\messages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\messages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\experiences\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\experiences\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\experiences\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\experiences\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\experiences\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\experiences\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\experiences\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\experiences\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\views\\experiences\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\views\\experiences\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\data\\lastportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\data\\lastportfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\controllers\\experiencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\controllers\\experiencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|c:\\users\\saadl\\source\\repos\\lastportfolio\\lastportfolio\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90814CAD-30F3-40E9-9ED0-F5F7E6DFCFA9}|LastPortfolio\\LastPortfolio.csproj|solutionrelative:lastportfolio\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250124042337_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Migrations\\20250124042337_initial migration.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Migrations\\20250124042337_initial migration.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Migrations\\20250124042337_initial migration.cs",
+              "RelativeToolTip": "LastPortfolio\\Migrations\\20250124042337_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:23:37.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Program.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Program.cs",
+              "RelativeToolTip": "LastPortfolio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:06:00.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "LastPortfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\appsettings.json",
+              "RelativeToolTip": "LastPortfolio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T04:05:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Index.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Skills\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Index.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Skills\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:05:29.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Details.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Skills\\Details.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Details.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Skills\\Details.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:05:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Skills\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Edit.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Skills\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:05:01.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Skills\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Delete.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Skills\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:04:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Create.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Skills\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Skills\\Create.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Skills\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:04:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LastPortfolio\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-24T04:03:20.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T04:00:05.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Projects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Projects\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:59:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Projects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Projects\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:59:04.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Details.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Projects\\Details.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Details.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Projects\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:58:51.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Projects\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Delete.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Projects\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:58:24.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Projects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Projects\\Create.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Projects\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:58:08.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Messages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Index.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Messages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:57:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Messages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Edit.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Messages\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:57:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Messages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Delete.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Messages\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:56:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Details.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Messages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Details.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Messages\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:56:41.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Create.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Messages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Messages\\Create.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Messages\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:56:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAkwH0BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:56:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Index.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Experiences\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Index.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Experiences\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:55:30.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Experiences\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Edit.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Experiences\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:54:54.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Details.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Experiences\\Details.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Details.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Experiences\\Details.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:54:36.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Experiences\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Delete.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Experiences\\Delete.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:54:30.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Create.cshtml",
+              "RelativeDocumentMoniker": "LastPortfolio\\Views\\Experiences\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Views\\Experiences\\Create.cshtml",
+              "RelativeToolTip": "LastPortfolio\\Views\\Experiences\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T03:54:01.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LastPortfolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Data\\LastPortfolioContext.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Data\\LastPortfolioContext.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Data\\LastPortfolioContext.cs",
+              "RelativeToolTip": "LastPortfolio\\Data\\LastPortfolioContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:46:04.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Controllers\\SkillsController.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "LastPortfolio\\Controllers\\SkillsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:45:21.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "LastPortfolio\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:44:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "LastPortfolio\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAwKAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:43:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExperiencesController.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\ExperiencesController.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Controllers\\ExperiencesController.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Controllers\\ExperiencesController.cs",
+              "RelativeToolTip": "LastPortfolio\\Controllers\\ExperiencesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:43:17.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Skill.cs",
+              "RelativeToolTip": "LastPortfolio\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:39:35.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Project.cs",
+              "RelativeToolTip": "LastPortfolio\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:39:17.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Message.cs",
+              "RelativeToolTip": "LastPortfolio\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:38:54.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "LastPortfolio\\Models\\Experience.cs",
+              "ToolTip": "C:\\Users\\saadl\\source\\repos\\LastPortfolio\\LastPortfolio\\Models\\Experience.cs",
+              "RelativeToolTip": "LastPortfolio\\Models\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:38:38.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
